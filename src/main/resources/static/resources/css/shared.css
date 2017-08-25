@@ -1,0 +1,39 @@
+a {
+	color: rgb(255, 153, 51);
+	text-decoration: none;
+}
+
+a:HOVER {
+	color: rgb(255, 102, 0);
+}
+
+.x-toolbar-footer,.x-toolbar-default {
+	padding: 4px 0 4px 4px;
+}
+
+.x-window-header-default-top {
+	padding:6px 3px;
+}
+
+.x-column-header-inner {
+	padding: 5px 6px;
+}
+
+.x-menu-item-arrow-default {
+	margin-top: 5px;
+}
+
+.ContainerVersion {
+	background-image: url("tmss-icon/ContainerVersion.gif") !important;
+	background-repeat: no-repeat;
+}
+
+.TestVersion {
+	background-image: url("tmss-icon/TestVersion.gif") !important;
+	background-repeat: no-repeat;
+}
+
+.BaselineVersion {
+	background-image: url("tmss-icon/BaselineVersion.gif") !important;
+	background-repeat: no-repeat;
+}
